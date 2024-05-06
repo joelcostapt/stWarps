@@ -1,0 +1,6 @@
+name: stWarps
+version: '${project.version}'
+main: pt.joelcosta.stwarps.Main
+author: start.dev
+commands:
+  warp:
